@@ -357,6 +357,12 @@ nav{
     .contact-section{
         position:relative;
 
+        .note{
+            float: left;
+            margin:0;
+            padding:7em 0.5em 0em 0em;
+        }
+
         .container{
             display:flex;
         }
@@ -402,3 +408,4 @@ nav{
         }
     }
 }
+

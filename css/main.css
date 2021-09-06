@@ -355,6 +355,11 @@ nav li a:hover {
   .contact-section {
     position: relative;
   }
+  .contact-section .note {
+    float: left;
+    margin: 0;
+    padding: 7em 0.5em 0em 0em;
+  }
   .contact-section .container {
     display: -webkit-box;
     display: -ms-flexbox;
